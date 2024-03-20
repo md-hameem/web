@@ -85,7 +85,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: 'MohammadHamim.pdf',
+      href: '/MohammadHamim.pdf',
       text: 'Resume',
       primary: true,
       Icon: ArrowDownTrayIcon,
@@ -219,25 +219,25 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'Sokonekt',
     description: 'Alternative to Crowdfire',
-    url: 'https://reactresume.com',
+    url: 'https://luday.se',
     image: porfolioImage1,
   },
   {
     title: 'Ebiore',
     description: 'akin to Tinder',
-    url: 'https://reactresume.com',
+    url: 'https://luday.se',
     image: porfolioImage2,
   },
   {
     title: 'Employee App',
     description: 'Web app for employees',
-    url: 'https://reactresume.com',
+    url: 'https://luday.se',
     image: porfolioImage3,
   },
   {
     title: 'Flamingo Footwear Limited',
     description: 'Ecom site for business',
-    url: 'https://reactresume.com',
+    url: 'https://ftipvt.com',
     image: porfolioImage4,
   },
 ];
@@ -317,7 +317,7 @@ export const testimonial: TestimonialSection = {
 
 export const contact: ContactSection = {
   headerText: 'Get in touch.',
-  description: 'If im not sleeping, ill come back to you!',
+  description: 'If Im not sleeping, ill come back to you!',
   items: [
     {
       type: ContactType.Email,
