@@ -218,25 +218,25 @@ export const skills: SkillGroup[] = [
 export const portfolioItems: PortfolioItem[] = [
   {
     title: 'Sokonekt',
-    description: 'Alternative to Crowdfire',
+    description: 'Developed a web application that will allow users to connect their social media accounts and share a post on one click to multiple social media platforms or schedule to post at a custom time.',
     url: 'https://luday.se',
     image: porfolioImage1,
   },
   {
     title: 'Ebiore',
-    description: 'akin to Tinder',
+    description: 'Ebiore (meaning “Family & Friends”) is a social platform that allows families to search for other families that share a common interest with them. It is a community where families can find, meet, and connect with other families that share similar interests.  Similar to a dating site, but instead of singles meeting other singles, families with or without children can search for and socialize with other families. ',
     url: 'https://luday.se',
     image: porfolioImage2,
   },
   {
-    title: 'Employee App',
-    description: 'Web app for employees',
+    title: 'SkillzUpp',
+    description: 'Developed a web application that can be used to test candidates for professional roles in tech and can also be used by candidates or employees to upskill on a variety of tech areas.',
     url: 'https://luday.se',
     image: porfolioImage3,
   },
   {
     title: 'Flamingo Footwear Limited',
-    description: 'Ecom site for business',
+    description: 'Developed a bespoke e-commerce platform specializing in export business, providing customers with the ability to effortlessly request quotes for millions of products.',
     url: 'https://ftipvt.com',
     image: porfolioImage4,
   },
@@ -267,9 +267,17 @@ export const experience: TimelineItem[] = [
     content: (
       <p>
         I have experience utilizing React and Next.js for frontend development, alongside Python Flask for
-        backend, across various projects (SAAS). Collaborating with teammates, we employed VS Code's Live
-        Share feature to enhance productivity. Our primary objectives included crafting a social media
-        management platform as an alternative to Crowdfire, and a family networking platform akin to Tinder
+        backend, across various projects (SAAS). Collaborating with teammates, we employed VS Code's Live Share feature to enhance productivity. 
+        We used High-end SDD & built architecture for microservice before development. Our primary objectives included crafting a social media management 
+        platform as an alternative to Crowdfire, and a family networking platform akin to Tinder.
+        • Coordinated with cross-functional teams to address critical bugs inherited from previous developers, showcasing strong problem-solving skills and fostering 
+        a collaborative environment for efficient issue
+        resolution. 
+        • Spearheaded the development of SAAS projects utilizing React, Next.js, and Python Flask, successfully
+        delivering robust front-end and backend solutions.
+        • Resolved critical issues inherited from previous developers, demonstrating strong problem-solving skills,
+        and collaborated with senior developers to address complex issues, achieving a 95% bug-fix success
+        rate
       </p>
     ),
   },
@@ -282,6 +290,9 @@ export const experience: TimelineItem[] = [
         Skilled in React.js, I develop UI components for global trade, optimize performance by 78%, and ensure
         seamless user experiences. Proficient in JavaScript, I design data models, handle front-end and backend tasks, 
         implement security measures, and integrate payment gateways for e-commerce.
+        • Ensure the responsiveness of websites across various devices and platforms.
+        • Implement security and data protection measures.
+        • Ensure seamless integration of user-facing elements with server-side logic
       </p>
     ),
   },
