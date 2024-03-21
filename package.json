@@ -1,7 +1,7 @@
 {
   "name": "mohammadhamim",
   "version": "2.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "yarn compile && yarn next build",
     "clean": "rm -rf build-tsc .next",
